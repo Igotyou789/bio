@@ -90,7 +90,7 @@ font-size: 70px }
 
       </style>
         <li> Steve Jobs: thinking differently by Patricia Lakin</li>
-        <a href="#footer"="https://book-summary-space.w3spaces.com/index.html"> Summary of Steve Jobs: Thinking Differently</a>
+        <a href="#footer"="https://book-summary-space.w3spaces.com/index.html"> </a>Summary of Steve Jobs: Thinking Differently
 
 
 
