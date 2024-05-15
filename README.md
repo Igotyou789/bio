@@ -39,7 +39,7 @@ font-size: 70px }
        <h1>BookHapp</h1>
        </div>
        <div style= "position: relative;">
-            <img  style="padding-top: 200px; padding-right: 200px;"align="right" class= "smaller-image" src="https://s3.ca-central-1.amazonaws.com/logojoy/logos/183065817/no_padding.png">
+            <img  style="padding-top: 200px; padding-right: 200px;"align="right" class= "smaller-image" src="https://www.spineandlabel.com/9781442453937-spine-label-Nigeria?tag=jobs">
        </div>
 <style>
   h1 {
