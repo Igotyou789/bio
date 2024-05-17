@@ -95,13 +95,13 @@ font-size: 70px }
 
 
         <li>Elon Musk and the quest for a fantastic future by Ashlee Vance</li>
-        <a href= "#head"="https://book-summary-space.w3spaces.com/index.html"> Summary of Elon Musk and the Quest for a Fantastic Future</a>
+        <a href= "#head"="https://github.com/Igotyou789/bio/edit/main/README.md"> Summary of Elon Musk and the Quest for a Fantastic Future</a>
         <li>Shoe Dog by Phil Knight</li>
-         <a href= "#ok"="https://book-summary-space.w3spaces.com/index.html"> Summary of Shoe Dog  </a>
+         <a href= "#ok"="https://github.com/Igotyou789/bio/edit/main/README.md"> Summary of Shoe Dog  </a>
         <li>Dominion: How the Christian Revolution Remade the World</li>
-        <a href="#omo"="https://book-summary-space.w3spaces.com/index.html" > Summary of Dominion: How the Christian Revolution Remade the World by Tom Holland</a></li>
+        <a href="#omo"="https://github.com/Igotyou789/bio/edit/main/README.md" > Summary of Dominion: How the Christian Revolution Remade the World by Tom Holland</a></li>
     <li> The Shortest History of Europe by John Hirst</li>
-    <a href= "#jig"="https://book-summary-space.w3spaces.com/index.html" > Summary of The Shortest History of Europe</a>
+    <a href= "#jig"="https://github.com/Igotyou789/bio/edit/main/README.md" > Summary of The Shortest History of Europe</a>
    
 </a>
      </ol>
